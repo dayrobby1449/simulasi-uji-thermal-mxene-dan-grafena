@@ -5,12 +5,12 @@
   "daily|Binder saja": 4.859674290522993,
   "daily|Binder + PCM": 4.8615129037099996,
   "daily|MXene 2%": 2.8593686255935262,
-  "daily|Grafena 2%": 4.073149326977217,
+  "daily|Grafena 2%": 4.074490859975798,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 6.6632007226289485,
   "shade|Binder + PCM": 6.680536034856186,
   "shade|MXene 2%": 3.958039585482234,
-  "shade|Grafena 2%": 6.094286517426236
+  "shade|Grafena 2%": 6.100171592444292
  },
  {
   "case": "k filler dalam bidang (GNP 1000; MXene 50)",
@@ -31,12 +31,12 @@
   "daily|Binder saja": 4.859674290522993,
   "daily|Binder + PCM": 4.8615129037099996,
   "daily|MXene 2%": 2.8566910588355605,
-  "daily|Grafena 2%": 4.073149326977217,
+  "daily|Grafena 2%": 4.074490859975798,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 6.6632007226289485,
   "shade|Binder + PCM": 6.680536034856186,
   "shade|MXene 2%": 3.944049996674604,
-  "shade|Grafena 2%": 6.094286517426236
+  "shade|Grafena 2%": 6.100171592444292
  },
  {
   "case": "k binder 0,13",
@@ -44,12 +44,12 @@
   "daily|Binder saja": 4.883386006022123,
   "daily|Binder + PCM": 4.877301649012294,
   "daily|MXene 2%": 2.8861633414754233,
-  "daily|Grafena 2%": 4.10673063225409,
+  "daily|Grafena 2%": 4.1086386965811705,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 6.879442311487425,
   "shade|Binder + PCM": 6.824715605730292,
   "shade|MXene 2%": 4.09540583995136,
-  "shade|Grafena 2%": 6.24092092850972
+  "shade|Grafena 2%": 6.24923239708227
  },
  {
   "case": "k mikrokapsul 0,1",
@@ -57,12 +57,12 @@
   "daily|Binder saja": 4.859674290522993,
   "daily|Binder + PCM": 4.866742654145769,
   "daily|MXene 2%": 2.868481249309431,
-  "daily|Grafena 2%": 4.084694875992313,
+  "daily|Grafena 2%": 4.086256325081831,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 6.6632007226289485,
   "shade|Binder + PCM": 6.728456581485445,
   "shade|MXene 2%": 4.005281819157738,
-  "shade|Grafena 2%": 6.144782308075054
+  "shade|Grafena 2%": 6.151606490628452
  },
  {
   "case": "k mikrokapsul 0,5",
@@ -70,12 +70,12 @@
   "daily|Binder saja": 4.859674290522993,
   "daily|Binder + PCM": 4.854469403455155,
   "daily|MXene 2%": 2.8472903027002134,
-  "daily|Grafena 2%": 4.057590148908798,
+  "daily|Grafena 2%": 4.058600202154193,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 6.6632007226289485,
   "shade|Binder + PCM": 6.61583054238919,
   "shade|MXene 2%": 3.894493339511942,
-  "shade|Grafena 2%": 6.02604841902271
+  "shade|Grafena 2%": 6.030479187258046
  },
  {
   "case": "k katun 0,04",
@@ -83,12 +83,12 @@
   "daily|Binder saja": 4.886037161589547,
   "daily|Binder + PCM": 4.887755857409442,
   "daily|MXene 2%": 2.905424176987841,
-  "daily|Grafena 2%": 4.138711133395146,
+  "daily|Grafena 2%": 4.139973199399504,
   "shade|Kain polos": 6.642830895495905,
   "shade|Binder saja": 6.901175383210742,
   "shade|Binder + PCM": 6.91735659727125,
   "shade|MXene 2%": 4.190386242165,
-  "shade|Grafena 2%": 6.376555994932555
+  "shade|Grafena 2%": 6.382018491311862
  },
  {
   "case": "k katun 0,07",
@@ -96,12 +96,12 @@
   "daily|Binder saja": 4.851820252490793,
   "daily|Binder + PCM": 4.853689699035647,
   "daily|MXene 2%": 2.8461096668470436,
-  "daily|Grafena 2%": 4.053633962817565,
+  "daily|Grafena 2%": 4.0550001453470585,
   "shade|Kain polos": 6.297309759797865,
   "shade|Binder saja": 6.591634331378595,
   "shade|Binder + PCM": 6.609323682038841,
   "shade|MXene 2%": 3.8884493748238933,
-  "shade|Grafena 2%": 6.00958357223927
+  "shade|Grafena 2%": 6.015597378162848
  },
  {
   "case": "c_p binder 1500",
@@ -109,12 +109,12 @@
   "daily|Binder saja": 4.860209004124512,
   "daily|Binder + PCM": 4.861885695195381,
   "daily|MXene 2%": 2.8602049554553206,
-  "daily|Grafena 2%": 4.073732540547248,
+  "daily|Grafena 2%": 4.075074032594761,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 6.672212264079228,
   "shade|Binder + PCM": 6.68681817426342,
   "shade|MXene 2%": 3.963490360463948,
-  "shade|Grafena 2%": 6.100872382435819
+  "shade|Grafena 2%": 6.10675884965117
  },
  {
   "case": "c_p binder 2000",
@@ -122,12 +122,12 @@
   "daily|Binder saja": 4.8593169160862875,
   "daily|Binder + PCM": 4.861263690771347,
   "daily|MXene 2%": 2.858813537876605,
-  "daily|Grafena 2%": 4.072762093505165,
+  "daily|Grafena 2%": 4.0741059834715205,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 6.657193073056377,
   "shade|Binder + PCM": 6.676347914668287,
   "shade|MXene 2%": 3.9544057029453947,
-  "shade|Grafena 2%": 6.089895955996118
+  "shade|Grafena 2%": 6.095780112034023
  },
  {
   "case": "rho katun 300",
@@ -135,12 +135,12 @@
   "daily|Binder saja": 4.859755136758881,
   "daily|Binder + PCM": 4.86159328450545,
   "daily|MXene 2%": 2.8595507899234742,
-  "daily|Grafena 2%": 4.07327826766663,
+  "daily|Grafena 2%": 4.074619443990089,
   "shade|Kain polos": 6.378734867741834,
   "shade|Binder saja": 6.664558666391749,
   "shade|Binder + PCM": 6.681886935730371,
   "shade|MXene 2%": 3.9592293418542006,
-  "shade|Grafena 2%": 6.095740504213217
+  "shade|Grafena 2%": 6.101623412991277
  },
  {
   "case": "rho katun 500",
@@ -148,12 +148,12 @@
   "daily|Binder saja": 4.859593375710048,
   "daily|Binder + PCM": 4.861432451652433,
   "daily|MXene 2%": 2.8591869222100046,
-  "daily|Grafena 2%": 4.073020311314776,
+  "daily|Grafena 2%": 4.074363593951151,
   "shade|Kain polos": 6.3757921814088165,
   "shade|Binder saja": 6.661842843652862,
   "shade|Binder + PCM": 6.6791851094340435,
   "shade|MXene 2%": 3.956849736517378,
-  "shade|Grafena 2%": 6.092832517487612
+  "shade|Grafena 2%": 6.098719762032794
  },
  {
   "case": "eps binder 0,80",
@@ -161,12 +161,12 @@
   "daily|Binder saja": 4.098735225061753,
   "daily|Binder + PCM": 4.100900357216634,
   "daily|MXene 2%": 2.4677137787800745,
-  "daily|Grafena 2%": 3.6327715548263124,
+  "daily|Grafena 2%": 3.63407464546615,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 5.5677688238118535,
   "shade|Binder + PCM": 5.584231850475986,
   "shade|MXene 2%": 3.242542030439179,
-  "shade|Grafena 2%": 5.393249387792981
+  "shade|Grafena 2%": 5.398898068847773
  },
  {
   "case": "eps binder 0,95",
@@ -174,12 +174,12 @@
   "daily|Binder saja": 5.238611651826285,
   "daily|Binder + PCM": 5.240197799011748,
   "daily|MXene 2%": 3.062574961382154,
-  "daily|Grafena 2%": 4.293878711984368,
+  "daily|Grafena 2%": 4.295230140799347,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 7.192239049081626,
   "shade|Binder + PCM": 7.209937989291181,
   "shade|MXene 2%": 4.308608238637739,
-  "shade|Grafena 2%": 6.437974847782826
+  "shade|Grafena 2%": 6.443970080429819
  },
  {
   "case": "alpha binder 0,50",
@@ -187,12 +187,12 @@
   "daily|Binder saja": 4.266860527861792,
   "daily|Binder + PCM": 4.267041763592511,
   "daily|MXene 2%": 2.6758992537141446,
-  "daily|Grafena 2%": 3.8264838197983346,
+  "daily|Grafena 2%": 3.8275850188117215,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 5.3328752295847375,
   "shade|Binder + PCM": 5.346383516201053,
   "shade|MXene 2%": 3.4652512167251563,
-  "shade|Grafena 2%": 5.52536210908605
+  "shade|Grafena 2%": 5.530747132621259
  },
  {
   "case": "alpha binder 0,70",
@@ -200,12 +200,12 @@
   "daily|Binder saja": 5.459594246804656,
   "daily|Binder + PCM": 5.463066355781665,
   "daily|MXene 2%": 3.0538332375842225,
-  "daily|Grafena 2%": 4.322882656375607,
+  "daily|Grafena 2%": 4.324461688630208,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 7.991195140429309,
   "shade|Binder + PCM": 8.01232463874399,
   "shade|MXene 2%": 4.451611859710491,
-  "shade|Grafena 2%": 6.663497059569656
+  "shade|Grafena 2%": 6.669881932770972
  },
  {
   "case": "eps MXene 0,29",
@@ -213,12 +213,12 @@
   "daily|Binder saja": 4.859674290522993,
   "daily|Binder + PCM": 4.8615129037099996,
   "daily|MXene 2%": 3.0131043929013623,
-  "daily|Grafena 2%": 4.073149326977217,
+  "daily|Grafena 2%": 4.074490859975798,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 6.6632007226289485,
   "shade|Binder + PCM": 6.680536034856186,
   "shade|MXene 2%": 4.224264227480826,
-  "shade|Grafena 2%": 6.094286517426236
+  "shade|Grafena 2%": 6.100171592444292
  },
  {
   "case": "eps MXene 0,15",
@@ -226,12 +226,12 @@
   "daily|Binder saja": 4.859674290522993,
   "daily|Binder + PCM": 4.8615129037099996,
   "daily|MXene 2%": 2.487535997576283,
-  "daily|Grafena 2%": 4.073149326977217,
+  "daily|Grafena 2%": 4.074490859975798,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 6.6632007226289485,
   "shade|Binder + PCM": 6.680536034856186,
   "shade|MXene 2%": 3.2804230039065474,
-  "shade|Grafena 2%": 6.094286517426236
+  "shade|Grafena 2%": 6.100171592444292
  },
  {
   "case": "alpha MXene 0,70",
@@ -239,12 +239,12 @@
   "daily|Binder saja": 4.859674290522993,
   "daily|Binder + PCM": 4.8615129037099996,
   "daily|MXene 2%": 2.6851351369338414,
-  "daily|Grafena 2%": 4.073149326977217,
+  "daily|Grafena 2%": 4.074490859975798,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 6.6632007226289485,
   "shade|Binder + PCM": 6.680536034856186,
   "shade|MXene 2%": 3.4909814285700325,
-  "shade|Grafena 2%": 6.094286517426236
+  "shade|Grafena 2%": 6.100171592444292
  },
  {
   "case": "alpha MXene 0,90",
@@ -252,12 +252,12 @@
   "daily|Binder saja": 4.859674290522993,
   "daily|Binder + PCM": 4.8615129037099996,
   "daily|MXene 2%": 3.043460469646049,
-  "daily|Grafena 2%": 4.073149326977217,
+  "daily|Grafena 2%": 4.074490859975798,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 6.6632007226289485,
   "shade|Binder + PCM": 6.680536034856186,
   "shade|MXene 2%": 4.425801041090195,
-  "shade|Grafena 2%": 6.094286517426236
+  "shade|Grafena 2%": 6.100171592444292
  },
  {
   "case": "eps grafena 0,40",
@@ -265,12 +265,12 @@
   "daily|Binder saja": 4.859674290522993,
   "daily|Binder + PCM": 4.8615129037099996,
   "daily|MXene 2%": 2.8593686255935262,
-  "daily|Grafena 2%": 3.655710607699814,
+  "daily|Grafena 2%": 3.6570180574740334,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 6.6632007226289485,
   "shade|Binder + PCM": 6.680536034856186,
   "shade|MXene 2%": 3.958039585482234,
-  "shade|Grafena 2%": 5.43035402888583
+  "shade|Grafena 2%": 5.436017584899087
  },
  {
   "case": "eps grafena 0,60",
@@ -278,12 +278,12 @@
   "daily|Binder saja": 4.859674290522993,
   "daily|Binder + PCM": 4.8615129037099996,
   "daily|MXene 2%": 2.8593686255935262,
-  "daily|Grafena 2%": 4.491468991880271,
+  "daily|Grafena 2%": 4.492823010984745,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 6.6632007226289485,
   "shade|Binder + PCM": 6.680536034856186,
   "shade|MXene 2%": 3.958039585482234,
-  "shade|Grafena 2%": 6.74197822645116
+  "shade|Grafena 2%": 6.74806577094433
  },
  {
   "case": "alpha grafena 0,80",
@@ -291,12 +291,12 @@
   "daily|Binder saja": 4.859674290522993,
   "daily|Binder + PCM": 4.8615129037099996,
   "daily|MXene 2%": 2.8593686255935262,
-  "daily|Grafena 2%": 3.8392835984783997,
+  "daily|Grafena 2%": 3.840396018399502,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 6.6632007226289485,
   "shade|Binder + PCM": 6.680536034856186,
   "shade|MXene 2%": 3.958039585482234,
-  "shade|Grafena 2%": 5.555095289092678
+  "shade|Grafena 2%": 5.56050808786329
  },
  {
   "case": "w_theta 0,02",
@@ -304,12 +304,12 @@
   "daily|Binder saja": 4.859674290522993,
   "daily|Binder + PCM": 4.8615129037099996,
   "daily|MXene 2%": 2.2353929011155804,
-  "daily|Grafena 2%": 3.7676758934159946,
+  "daily|Grafena 2%": 3.7691729608843687,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 6.6632007226289485,
   "shade|Binder + PCM": 6.680536034856186,
   "shade|MXene 2%": 2.867077308016144,
-  "shade|Grafena 2%": 5.75142324213661
+  "shade|Grafena 2%": 5.757441249567803
  },
  {
   "case": "w_theta 0,05",
@@ -317,12 +317,12 @@
   "daily|Binder saja": 4.859674290522993,
   "daily|Binder + PCM": 4.8615129037099996,
   "daily|MXene 2%": 3.5378195728856596,
-  "daily|Grafena 2%": 4.365999330212527,
+  "daily|Grafena 2%": 4.367128599621821,
   "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 6.6632007226289485,
   "shade|Binder + PCM": 6.680536034856186,
   "shade|MXene 2%": 4.982264252314774,
-  "shade|Grafena 2%": 6.370800744937289
+  "shade|Grafena 2%": 6.3764657781792105
  },
  {
   "case": "alpha katun 0,36 (abu-abu)",
@@ -330,12 +330,12 @@
   "daily|Binder saja": 4.859674290522993,
   "daily|Binder + PCM": 4.8615129037099996,
   "daily|MXene 2%": 2.8593686255935262,
-  "daily|Grafena 2%": 4.073149326977217,
+  "daily|Grafena 2%": 4.074490859975798,
   "shade|Kain polos": 3.220859775494852,
   "shade|Binder saja": 6.6632007226289485,
   "shade|Binder + PCM": 6.680536034856186,
   "shade|MXene 2%": 3.958039585482234,
-  "shade|Grafena 2%": 6.094286517426236
+  "shade|Grafena 2%": 6.100171592444292
  },
  {
   "case": "alpha katun 0,17 (putih)",
@@ -343,24 +343,89 @@
   "daily|Binder saja": 4.859674290522993,
   "daily|Binder + PCM": 4.8615129037099996,
   "daily|MXene 2%": 2.8593686255935262,
-  "daily|Grafena 2%": 4.073149326977217,
+  "daily|Grafena 2%": 4.074490859975798,
   "shade|Kain polos": 1.854791880485281,
+  "shade|Binder saja": 6.6632007226289485,
+  "shade|Binder + PCM": 6.680536034856186,
+  "shade|MXene 2%": 3.958039585482234,
+  "shade|Grafena 2%": 6.100171592444292
+ },
+ {
+  "case": "k grafena 5",
+  "daily|Kain polos": 4.738590727025171,
+  "daily|Binder saja": 4.859674290522993,
+  "daily|Binder + PCM": 4.8615129037099996,
+  "daily|MXene 2%": 2.8593686255935262,
+  "daily|Grafena 2%": 4.073149326977217,
+  "shade|Kain polos": 6.377263548928358,
   "shade|Binder saja": 6.6632007226289485,
   "shade|Binder + PCM": 6.680536034856186,
   "shade|MXene 2%": 3.958039585482234,
   "shade|Grafena 2%": 6.094286517426236
  },
  {
-  "case": "k grafena 3,2 (tegak lurus bidang, terukur)",
-  "daily|Kain polos": 4.738590727025171,
-  "daily|Binder saja": 4.859674290522993,
-  "daily|Binder + PCM": 4.8615129037099996,
-  "daily|MXene 2%": 2.8593686255935262,
-  "daily|Grafena 2%": 4.074490859975798,
-  "shade|Kain polos": 6.377263548928358,
-  "shade|Binder saja": 6.6632007226289485,
-  "shade|Binder + PCM": 6.680536034856186,
-  "shade|MXene 2%": 3.958039585482234,
-  "shade|Grafena 2%": 6.100171592444292
+  "case": "T_sur = T_a",
+  "daily|Kain polos": 5.239617340341317,
+  "daily|Binder saja": 5.340969707025409,
+  "daily|Binder + PCM": 5.3435961088222825,
+  "daily|MXene 2%": 3.7836933568873126,
+  "daily|Grafena 2%": 4.871150331750458,
+  "shade|Kain polos": 6.930901697644553,
+  "shade|Binder saja": 7.193477314982109,
+  "shade|Binder + PCM": 7.211884063493923,
+  "shade|MXene 2%": 5.158826247047517,
+  "shade|Grafena 2%": 7.023871208892526
+ },
+ {
+  "case": "T_sur = T_a - 6 K",
+  "daily|Kain polos": 4.284388777224778,
+  "daily|Binder saja": 4.42067097126376,
+  "daily|Binder + PCM": 4.4217212944915705,
+  "daily|MXene 2%": 2.1416116641672165,
+  "daily|Grafena 2%": 3.385403853617694,
+  "shade|Kain polos": 5.836766784766104,
+  "shade|Binder saja": 6.145916155190585,
+  "shade|Binder + PCM": 6.162169375245806,
+  "shade|MXene 2%": 2.775759909415053,
+  "shade|Grafena 2%": 5.19359523247597
+ },
+ {
+  "case": "T_sur = T_a - 12 K",
+  "daily|Kain polos": 3.503848966242487,
+  "daily|Binder saja": 3.6584315210310865,
+  "daily|Binder + PCM": 3.6571369143382597,
+  "daily|MXene 2%": 1.726680904962308,
+  "daily|Grafena 2%": 2.3326138617258483,
+  "shade|Kain polos": 4.795004016769382,
+  "shade|Binder saja": 5.150018954736741,
+  "shade|Binder + PCM": 5.163657917296279,
+  "shade|MXene 2%": 1.4485247286988279,
+  "shade|Grafena 2%": 3.5721946746466684
+ },
+ {
+  "case": "h_c 8",
+  "daily|Kain polos": 5.428645819550209,
+  "daily|Binder saja": 5.591114595387126,
+  "daily|Binder + PCM": 5.595313936190654,
+  "daily|MXene 2%": 3.41099450104171,
+  "daily|Grafena 2%": 4.777047786444496,
+  "shade|Kain polos": 7.423192160042513,
+  "shade|Binder saja": 7.774680659185473,
+  "shade|Binder + PCM": 7.797555265464113,
+  "shade|MXene 2%": 4.946801630148618,
+  "shade|Grafena 2%": 7.269356707680389
+ },
+ {
+  "case": "h_c 16",
+  "daily|Kain polos": 4.185054615097463,
+  "daily|Binder saja": 4.276555691624976,
+  "daily|Binder + PCM": 4.276809165886959,
+  "daily|MXene 2%": 2.4504239680712416,
+  "daily|Grafena 2%": 3.523953816132785,
+  "shade|Kain polos": 5.522175391544746,
+  "shade|Binder saja": 5.760556288755436,
+  "shade|Binder + PCM": 5.773918456495338,
+  "shade|MXene 2%": 3.1686612724797807,
+  "shade|Grafena 2%": 5.1592234073377
  }
 ]

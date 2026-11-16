@@ -58,6 +58,7 @@ class Params:
     n_air: int = 4; n_cot: int = 6; n_comp: int = 30
     # batas
     T_skin: float = 34.0; h_c: float = 12.0; eps_bg: float = 0.95
+    dT_sur: float = 3.0   # T_sur = T_a - dT_sur
 
 def hamilton_crosser(km, kd, phi, psi):
     n = 3.0/psi
@@ -171,20 +172,20 @@ class Column:
         return x[:N], x[N], nit
 
 # ------------------------------------------------------------------ skenario
-def daily_forcing(t):  # t dalam jam sejak 00:00 hari pertama
+def daily_forcing(t, dT_sur=3.0):  # t dalam jam sejak 00:00 hari pertama
     h = t % 24.0
     Ta = 27.5 + 4.5*np.cos(2*np.pi*(h-14.0)/24.0)
     Tbg = 29.0 + 9.0*np.cos(2*np.pi*(h-13.5)/24.0)
     G = 800.0*np.sin(np.pi*(h-6.0)/12.0) if 6.0 <= h <= 18.0 else 0.0
-    return Ta, Ta-3.0, G, Tbg
+    return Ta, Ta-dT_sur, G, Tbg
 
-def shade_sun_forcing(t):  # t dalam jam, matahari muncul pada t = 0,5 jam
+def shade_sun_forcing(t, dT_sur=3.0):  # t dalam jam, matahari muncul pada t = 0,5 jam
     if t < 0.5:
         Ta, G, Tbg = 30.0, 0.0, 28.0
     else:
         Ta, G = 30.0, 700.0
         Tbg = 36.0 - 8.0*np.exp(-(t-0.5)/0.5)
-    return Ta, Ta-3.0, G, Tbg
+    return Ta, Ta-dT_sur, G, Tbg
 
 def run(col: Column, scenario='daily', dt=None, T0=None):
     p = col.p
@@ -196,7 +197,7 @@ def run(col: Column, scenario='daily', dt=None, T0=None):
         t_end, forcing = 2.5, shade_sun_forcing
     n = int(round(t_end*3600/dt))
     N = col.N
-    Ta, Tsur, G, Tbg = forcing(0.0)
+    Ta, Tsur, G, Tbg = forcing(0.0, p.dT_sur)
     # kondisi awal: profil tunak linear sederhana, lalu relaksasi
     T = np.linspace(p.T_skin, Ta, N) if T0 is None else T0.copy()
     Ts = T[-1]
@@ -208,7 +209,7 @@ def run(col: Column, scenario='daily', dt=None, T0=None):
             T, Ts, _n = col.step(T, Ts, 600.0, Ta, Tsur, G)
     for i in range(1, n+1):
         t = i*dt/3600.0
-        Ta, Tsur, G, Tbg = forcing(t)
+        Ta, Tsur, G, Tbg = forcing(t, p.dT_sur)
         T, Ts, nit = col.step(T, Ts, dt, Ta, Tsur, G)
         out['t'].append(t); out['Ts'].append(Ts); out['Tbg'].append(Tbg)
         out['Ta'].append(Ta); out['Tsur'].append(Tsur); out['G'].append(G)

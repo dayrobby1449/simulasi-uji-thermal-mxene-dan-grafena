@@ -33,7 +33,12 @@ VARIANTS = [
  ('w_theta 0,05', lambda p: setattr(p,'w_theta',0.05)),
  ('alpha katun 0,36 (abu-abu)', lambda p: setattr(p.cotton,'alpha',0.36)),
  ('alpha katun 0,17 (putih)', lambda p: setattr(p.cotton,'alpha',0.17)),
- ('k grafena 3,2 (tegak lurus bidang, terukur)', lambda p: setattr(p.gnp,'k',3.2)),
+ ('k grafena 5', lambda p: setattr(p.gnp,'k',5.0)),
+ ('T_sur = T_a', lambda p: setattr(p,'dT_sur',0.0)),
+ ('T_sur = T_a - 6 K', lambda p: setattr(p,'dT_sur',6.0)),
+ ('T_sur = T_a - 12 K', lambda p: setattr(p,'dT_sur',12.0)),
+ ('h_c 8', lambda p: setattr(p,'h_c',8.0)),
+ ('h_c 16', lambda p: setattr(p,'h_c',16.0)),
 ]
 DES = [('Kain polos', None, 0.0), ('Binder saja', None, 0.0), ('Binder + PCM', None, None),
        ('MXene 2%', 'mxene', None), ('Grafena 2%', 'gnp', None)]
